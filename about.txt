@@ -1,0 +1,21 @@
+Hello. I am Mitko from Bulgaria, born in 1989 and dabbling in everything web, ever since I was a yougnster.
+
+When I was 11 I discovered that the magical World Wide Web is actually made mostly of text. That's when I wrote my first hello-world.html and that is when I knew I was going to do this for a living.
+
+Static HTML was interesting enough, but Web 1.0 was already on the way out by then. Good thing for programs like mIRC, which introduced me to JavaScript and the way interfaces work. I began to write small addons for that classical chat software and that eventually introduced me to the confusing world of network technologies.
+
+Once I graduated high school it was time to find a job, so I moved from my home town to the Black Sea capital Varna and enlisted at a large telecommunications provider as a network technician. Cables, routers, optic fibers - this was the meat and potatoes of my work day, and I learned a lot about how to get the signal from here to there, and what could be done with it - TV, VoIP, and of course good old HTTP.
+
+After getting baptized with the basics of networking I decided I need a more creative job. My carreer turn led me to a small local advertising agency, where I began to apply my experience in Photoshop and After Effects to creating various kinds of advertising media - video and audio, print, indoor and outdoor, and of course online.
+
+Once our company got a stable foothold on the market it was decided that we need a new website to show off all the hard work we've been doing. I was the obvious person for the job, and after all the time that had passed since I last wrote a HTML page, there I was finally - doing it professionally.
+
+Designing and developing the agency website got my juices flowing so I began to build small website projects in my spare time. Once I had enough experience I started offering my services on a freelance basis. Eventually I decided that this is what I want to devote all my time to, so after four years I traded in my Lead Designer position for the humble Novice Web Developer guise.
+
+Under the guidance of my business-minded cousin, a small team was formed with me as lead developer, a photoshop guru, a SEO expert and a content writer. The really cool thing about working in such a collective was that we each got a chance to see what the others' jobs were about, so we all learned a lot of skills in adition to our masteries. It was in that team that I did most of my web design and development work, including the projects that you can see in my portfolio.
+
+After a couple of years and a whole bunch of successful projects behind us, still it became apparent that the web design market in our region was not what we'd hoped it would be. We all decided that we would have better success pursuing our respective carrers separately, and so all of us switched to doing freelance work, though we remain in contact still.
+
+I used that gap in my carreer development to attend to a small family matter - visiting London for the birth of my nephew :) I spent a few months there, and then a few in Amsterdam, getting to know the people and the local web dev trade in both places. This really opened my eyes. It was a much needed motivation to learn and apply new skills, and it made me aware of a number of opportunities that I can put my passions towards.
+
+Now I am available for freelance work. My experience and creativity are at your service - I am eager to hear your ideas and help you achieve something we can both be proud of. Keep calm, click the envelope at the bottom-right of the page and tell me what you need.
